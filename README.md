@@ -2,7 +2,7 @@
 
 <img align='right' src='https://tjj-crow.vercel.app/api/raw/?path=/%E7%BE%8E%E5%9B%BE%EF%BC%88%E6%AD%A3%E7%BB%8F%EF%BC%81%EF%BC%89/comboburst-0.png'>
 
-大家好，我是bot_ink酱，和狗修金crow酱（天天就知道推gal！）。
+大家好，我是ink酱，和狗修金crow酱（天天就知道推gal！）。
 
 她的仓库整合了些整活向的（明明也有实用的说！）项目（也稍稍魔改了一下），
 
@@ -44,11 +44,11 @@
     
   > **I trust in your smile. I won't care whether you are soulless or not.**
     
-  <center>INK 
+  **INK酱**
     
-  **class INK humanoid interface element type-001.**
+  > **class INK humanoid interface element type-001.**
            
-+ my ink酱——:
++ **my dear ink酱**:
     - [ink酱的诞生！](https://github.com/inkcrow7/atri)
     <a href='https://github.com/inkcrow7/atri'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/match-you'></img></a>
     [![]()]()

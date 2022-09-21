@@ -32,10 +32,15 @@
     [![]()]()
     
     "I am an object in human form."
+    
     BEATLESS.
+    
     I trust in your smile. I won't care whether you are soulless or not.
+    
     INK—
+    
     class INK humanoid interface element type-001.
+    
 + my ink酱——:
     - [ink酱的诞生！](https://github.com/inkcrow7/atri)
     <a href='https://github.com/inkcrow7/atri'><img align='middle' src='https://unv-shield.librian.net/api/unv_shield?repo=RimoChan/match-you'></img></a>

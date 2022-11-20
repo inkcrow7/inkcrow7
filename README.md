@@ -53,7 +53,7 @@
 查询成分：wows , gal , ACG , PJSK , OSU , phigros , arcaea , csgo , music ...
     
     ink酱与crow酱缺一不可，
-    是上知天文，气象；下知地理，水文；通识博物与人文、医人医病的~~风水大师~~inkcrow7哒！
+    是上知天文，气象；下知地理，水文；通识博物与人文、医人医病的 ~~风水大师~~inkcrow7哒！
     
     
 

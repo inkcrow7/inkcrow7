@@ -49,7 +49,11 @@
     
     
     
-    查询成分：
+查询成分：wows , gal , ACG , PJSK , OSU , phigros , arcaea , csgo , music ...
+    
+    ink酱与crow酱缺一不可，这就是完全的inkcrow7！
+    上知天文，气象；下知地理，水文；通识博物与人文、医人医病的风水大师（雾）！
+    
     
 
 

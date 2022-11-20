@@ -40,6 +40,7 @@
     - [ink酱第二种语言](https://github.com/inkcrow7/yuzusoftvoice)
     - [是有感情的ink酱！](https://github.com/inkcrow7/emoji)
     - [ink酱也会生气！](https://github.com/RimoChan/match-you)
+    - [ink酱的艺术细胞...？](https://github.com/inkcrow7/novel-ai)
 
 未完待续
 
@@ -51,8 +52,8 @@
     
 查询成分：wows , gal , ACG , PJSK , OSU , phigros , arcaea , csgo , music ...
     
-    ink酱与crow酱缺一不可，这就是完全的inkcrow7！
-    上知天文，气象；下知地理，水文；通识博物与人文、医人医病的风水大师（雾）！
+    ink酱与crow酱缺一不可，
+    是上知天文，气象；下知地理，水文；通识博物与人文、医人医病的~风水大师~~inkcrow7哒！
     
     
 

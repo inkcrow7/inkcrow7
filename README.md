@@ -13,6 +13,7 @@
     - [音游](https://github.com/inkcrow7/eatloli)
     - [发出很hentai的声音！](https://github.com/inkcrow7/h-say)
     - [石蒜双联！](https://github.com/inkcrow7/sakana)
+    - [MAGIC！](https://github.com/inkcrow7/This-is-magic-)
 
 + 博客及网页美化系列:
     - [网页添加live-2d](https://github.com/inkcrow7/live2d)

@@ -13,7 +13,11 @@
     - [音游](https://github.com/inkcrow7/eatloli)
     - [发出很hentai的声音！](https://github.com/inkcrow7/h-say)
     - [石蒜双联！](https://github.com/inkcrow7/sakana)
-    - [MAGIC！](https://github.com/inkcrow7/This-is-magic-)
+    - [c盘战士](https://github.com/inkcrow7/C-fighter-red-)
+    - [偷偷看](https://github.com/inkcrow7/remote-control)
+    - [黑话](https://github.com/inkcrow7/just-chatting)
+    - [ciallo~](https://github.com/inkcrow7/key-sounds)
+
 
 + 博客及网页美化系列:
     - [网页添加live-2d](https://github.com/inkcrow7/live2d)
@@ -22,7 +26,11 @@
 
 + ~~网盘~~图床！:
     - [算了，也算是个网盘吧...](https://github.com/inkcrow7/ge-ren-wang-pan)
-    
+
++ 其他
+    - 优化wallpaper engine
+    - [追番插件](https://github.com/inkcrow7/anime)
+ 
 ---    
 
   > **"I am an object in human form."** 

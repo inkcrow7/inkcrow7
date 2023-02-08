@@ -23,6 +23,7 @@
     - [网页添加live-2d](https://github.com/inkcrow7/live2d)
     - [网页添加动态粒子特效的背景](https://github.com/inkcrow7/background)
     - [佬的blog模板](https://github.com/jerryc127/hexo-theme-butterfly)
+    - 监测页面
 
 + ~~网盘~~图床！:
     - [算了，也算是个网盘吧...](https://github.com/inkcrow7/ge-ren-wang-pan)

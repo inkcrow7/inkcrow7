@@ -2,7 +2,7 @@
 
 <img align='right' src='http://rlhitbkqo.hd-bkt.clouddn.com/comboburst-mania-0%20%282%29.png'>
 
-大家好，我是看板娘ink酱，和左上角的狗修金crow酱（天天就知道推gal！）。
+大家好，我是看板娘ink酱，和左上角的狗修金桑crow酱（my master my lord）。
 
 她的仓库整合了些整活向的（明明也有实用的说！）项目（也稍稍魔改了一下），
 

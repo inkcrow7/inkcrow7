@@ -23,7 +23,7 @@
     - [网页添加live-2d](https://github.com/inkcrow7/live2d)
     - [网页添加动态粒子特效的背景](https://github.com/inkcrow7/background)
     - [佬的blog模板](https://github.com/jerryc127/hexo-theme-butterfly)
-    - 监测页面
+    - [监测页面](https://github.com/inkcrow7/hide-and-seek)
 
 + ~~网盘~~图床！:
     - [算了，也算是个网盘吧...](https://github.com/inkcrow7/ge-ren-wang-pan)
@@ -31,6 +31,7 @@
 + 其他
     - 优化wallpaper engine
     - [追番插件](https://github.com/inkcrow7/anime)
+    - [公共网网页中认证（对于配置不足以再安装图形化界面）](https://github.com/inkcrow7/noob-graduate-network)
  
 ---    
 
@@ -59,8 +60,7 @@
     [![]()]()
     
     
-    
-查询成分：wows , gal , ACG , PJSK , OSU , phigros , arcaea , csgo , music ...
+    查询成分...
     
     ink和crow，两个人加起来才inkcrow7。
     这就是上知天文，气象；下知地理，水文；通识博物与人文、医人医病的inkcrow7哒！
